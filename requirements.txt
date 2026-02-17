@@ -1,0 +1,5 @@
+libraries used for this project:
+
+csv
+random
+tabulate
